@@ -1,3 +1,3 @@
-TinDog Starting Files
-run index.html
+TinDog Starting Files.
+run index.html.
 play with css and index.html
